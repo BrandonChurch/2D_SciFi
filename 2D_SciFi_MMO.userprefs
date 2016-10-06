@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NetworkConnector.cs" Line="31" Column="43" />
+      <File FileName="Assets/Assets/Space/Ships/Ship.cs" Line="122" Column="14" />
+      <File FileName="Assets/Scripts/Player.cs" Line="263" Column="5" />
+      <File FileName="Assets/Assets/Space/Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoginManager.cs" Line="46" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Z_Backup/Z/Assets/LoginManager.cs" line="61" offsetX="443" offsetY="900" expression="characters._items[0]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
